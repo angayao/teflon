@@ -26,7 +26,8 @@ feature interactions for superior asset return forecasting.
 
 ## Overview
 
-![TeFLoN Architecture](resources/teflon.jpg)
+[View TeFLoN Architecture (PDF)](./resources/teflon.pdf)
+[View FLA PDF)](./resources/fla.pdf)
 
 ---
 
