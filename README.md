@@ -1,5 +1,6 @@
 # Temporal Feature Locality Network (TeFLoN)
 
+## ABSTRACT
 Asset return forecasting poses a significant challenge due to complex, dynamic, and stochastic nature
 of financial markets. This inherent uncertainty demands models that can robustly learn across
 time and regimes. While recurrent networks, convolutional models, and scaled dot-product atten-
@@ -25,7 +26,7 @@ feature interactions for superior asset return forecasting.
 
 ## Overview
 
-![TeFLoN Architecture](./resources/fig1.pdf)
+![TeFLoN Architecture](resources/fig1.pdf)
 *Figure: Temporal Feature Locality Network (TeFLoN) block diagram.*
 
 ---
