@@ -26,8 +26,7 @@ feature interactions for superior asset return forecasting.
 
 ## Overview
 
-![TeFLoN Architecture](resources/teflon.png)
-*Figure: Temporal Feature Locality Network (TeFLoN) block diagram.*
+![TeFLoN Architecture](resources/teflon.jpg)
 
 ---
 
